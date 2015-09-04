@@ -1,0 +1,12 @@
+{
+  "name": "node-soap-dlc",
+  "description": "This is a Node.js based DLC connecting to a SOAP Web Service",
+  "author": "Paras Wadehra @ParasWadehra",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "soap": "^0.9.1",
+    "request": "^2.55.0"
+  }
+}
